@@ -1,0 +1,22 @@
+#shoes-button {
+    width: 115px;
+    padding: 5px;
+    display: block;
+    height: 40px;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+#scarypic {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#linkAudio {
+    visibility: hidden;
+}
