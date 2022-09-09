@@ -19,32 +19,4 @@
 <footer>
     <h3>You can contact me: nigozis.gonazalez07@gmail.com or 612-802-9945 cashapp: $qtRACKZ</h3>
 </footer>
-<audio controls id="
-">
-    <source src="/sounds/scream.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-  </audio>
 </html>
-
-<script>
-    function hello() {
-        var isBlack = false;
-        var count = 0;
-        document.getElementById("linkAudio").play();
-        var flasher = setInterval(function(){
-            $("body").css("background-color", isBlack ? 'white' : 'black');
-            if (isBlack) {
-                $('#scarypic').hide();
-            } else {
-                $('#scarypic').show();
-            }
-            isBlack = !isBlack;
-            count++;
-            console.log("count", count);
-            if (count > 30) {
-                clearInterval(flasher);
-            }
-        }, 50);
-    }
-    $('#scarypic').hide();
-</script>
