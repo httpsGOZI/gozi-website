@@ -1,11 +1,11 @@
 body {
-    background-color: #8da0ac;
+    background-color: #88949c;
     margin: 0;
     font-size: 28px;
     font-family: Arial, Helvetica, sans-serif;
   }
   .header {
-    background-color: #8da0ac;
+    background-color: #88949c;
     padding: 30px;
     text-align: center;
   }
@@ -23,8 +23,8 @@ body {
     font-size: 17px;
   }
   #navbar a:hover {
-    background-color: #ddd;
-    color: black;
+    background-color: #88949c;
+    color: rgb(76, 135, 202);
   }
   .content {
     padding: 16px;
