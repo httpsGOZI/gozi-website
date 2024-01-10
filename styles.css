@@ -1,40 +1,82 @@
 body {
-    background-color: #88949c;
-    margin: 0;
-    font-size: 28px;
-    font-family: Arial, Helvetica, sans-serif;
-  }
-  .header {
-    background-color: #88949c;
-    padding: 30px;
-    text-align: center;
-  }
-  #navbar {
-    overflow: hidden;
-    background-color: rgb(55, 102, 168);
-  }
-  #navbar a {
-    float: left;
-    display: block;
-    color: #8da0ac;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 17px;
-  }
-  #navbar a:hover {
-    background-color: #88949c;
-    color: rgb(76, 135, 202);
-  }
-  .content {
-    padding: 16px;
-  }
-  .sticky {
-    position: fixed;
-    top: 0;
-    width: 100%;
-  }
-  .sticky + .content {
-    padding-top: 60px;
-  }
+
+  background-color: #88949c;
+
+  margin: 0;
+
+  font-size: 28px;
+
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h2 {
+
+  font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", "sans serif";
+}
   
+.header {
+
+  background-color: #88949c;
+
+  padding: 30px;
+
+  text-align: center;
+
+}
+
+#navbar {
+
+  overflow: hidden;
+
+  background-color: rgb(55, 102, 168);
+
+}
+
+#navbar a {
+
+  float: left;
+
+  display: block;
+
+  color: #8da0ac;
+
+  text-align: center;
+
+  padding: 14px 16px;
+
+  text-decoration: none;
+
+  font-size: 17px;
+
+}
+
+#navbar a:hover {
+
+  background-color: #88949c;
+
+  color: rgb(76, 135, 202);
+
+}
+
+.content {
+
+  padding: 16px;
+
+}
+
+.sticky {
+
+  position: fixed;
+
+  top: 0;
+
+  width: 100%;
+
+}
+
+.sticky + .content {
+
+  padding-top: 60px;
+
+}
