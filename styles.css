@@ -1,6 +1,6 @@
 body {
 
-  background-color: rgb(62, 124, 177);
+  background-color: rgb(255, 255, 255);
 
   margin: 0;
 
@@ -18,7 +18,7 @@ body {
   
 .header {
 
-  background-color: rgb(62, 124, 177);
+  background-color: rgb(255, 255, 255);
 
   padding: 30px;
 
@@ -30,7 +30,7 @@ body {
 
   overflow: hidden;
 
-  background-color: rgb(5, 74, 145);
+  background-color: rgb(39, 39, 39);
 
 }
 
@@ -40,7 +40,7 @@ body {
 
   display: block;
 
-  color: rgb(62, 124, 177);
+  color: rgb(255, 255, 255);
 
   text-align: center;
 
@@ -54,9 +54,9 @@ body {
 
 #navbar a:hover {
 
-  background-color: rgb(62, 124, 177);
+  background-color: rgb(255, 255, 255);
 
-  color: rgb(5, 74, 145);
+  color: rgb(39, 39, 39);
 
 }
 
