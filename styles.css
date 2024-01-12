@@ -1,6 +1,6 @@
 body {
 
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(66, 66, 66);
 
   margin: 0;
 
@@ -14,11 +14,13 @@ body {
 
   font-family: "Raleway";
 
+  font-color: rgb(202, 202, 202);
+
 }
   
 .header {
 
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(66, 66, 66);
 
   padding: 30px;
 
@@ -30,7 +32,7 @@ body {
 
   overflow: hidden;
 
-  background-color: rgb(39, 39, 39);
+  background-color: rgb(14, 14, 14);
 
 }
 
@@ -40,7 +42,7 @@ body {
 
   display: block;
 
-  color: rgb(255, 255, 255);
+  color: rgb(66, 66, 66);
 
   text-align: center;
 
@@ -54,9 +56,9 @@ body {
 
 #navbar a:hover {
 
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(66, 66, 66);
 
-  color: rgb(39, 39, 39);
+  color: rgb(14, 14, 14);
 
 }
 
