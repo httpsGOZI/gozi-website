@@ -1,19 +1,25 @@
 body {
 
-  background-color: rgb(66, 66, 66);
-
-  margin: 0;
-
-  font-size: 28px;
-
-  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(255, 255, 255);
 
 }
 
 #Font1 {
 
   font-family: "Raleway";
+  
+  font-weight: lighter;
+  
+  color: rgb(0, 0, 0);
 
-  color: rgb(202, 202, 202);
+}
+
+#Font2 {
+
+font-family: "Raleway";
+
+font-weight: bolder;
+
+color: rgb(0, 0, 0);
 
 }
