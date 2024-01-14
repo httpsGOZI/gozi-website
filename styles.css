@@ -14,7 +14,7 @@ body {
 
 }
 
-#Font2 {
+#Home {
 
 font-family: "Raleway";
 
@@ -22,14 +22,59 @@ font-weight: bolder;
 
 color: rgb(0, 0, 0);
 
-}
-
-a {
-
-  position: fixed;
+position: fixed;
 
 right: 0;
 
 top: 0;
 
 }
+
+#Home {
+
+  font-family: "Raleway";
+  
+  font-weight: bolder;
+  
+  color: rgb(0, 0, 0);
+  
+  position: fixed;
+  
+  right: 0;
+  
+  top: 0;
+  
+  }
+  
+  #Contact {
+
+    font-family: "Raleway";
+    
+    font-weight: bolder;
+    
+    color: rgb(0, 0, 0);
+    
+    position: fixed;
+    
+    right: 0;
+    
+    top: 0;
+    
+    }
+
+    #Plans {
+
+      font-family: "Raleway";
+      
+      font-weight: bolder;
+      
+      color: rgb(0, 0, 0);
+      
+      position: fixed;
+      
+      right: 0;
+      
+      top: 0;
+      
+      }
+      
